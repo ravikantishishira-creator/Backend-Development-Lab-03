@@ -5,8 +5,8 @@
 | Field | Details |
 |---|---|
 | Student Name | Shishira Ravikanti |
-| Registration Number | [Your Registration Number] |
-| Class & Section | [Your Class & Section] |
+| Registration Number | 252U1R1218 |
+| Class & Section | CSE 2E 211 |
 | Study Level | UG |
 | Year & Term | 2nd Year, II Term |
 | Subject | Backend Development Fundamentals |
